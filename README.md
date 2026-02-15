@@ -1,4 +1,4 @@
-# Task Manager (Vanilla JS)
+# Task Manager
 
 > **A focused productivity tool for managing workflows through dynamic task tracking, real-time status updates, and automated list organization.**
 
